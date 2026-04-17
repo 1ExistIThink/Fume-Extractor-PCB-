@@ -22,4 +22,4 @@ Example Calculations:
     
     `R1​:R2​:R3​:R4​:R5​ = 0.57:0.72:0.71:0.57:9.43` -> normalize by R/0.57 -> `R1:R2:R3:R4:R5 = 1:1.26:1.25:1:16.54`
     
-    Meaning, we can choose any size resistors as long as they follow this ratio. For simplicity sake, I will be using R1 = 1k, R2 = 1.26k, R3 = 1.25k, etc. 
+    Meaning, we can choose any size resistors as long as they follow this ratio. For simplicity sake, I will be using R1 = 1k, R2 = 1.26k, R3 = 1.25k, etc. Note that these resistor values will be the same for both ladders         because of the scaling factor from earlier. 
