@@ -27,3 +27,4 @@ Example Calculations:
 
     Now, to find the battery ladder:
     fully charged = 16.8V, V1 = 16.0V, V2 = 15.0V, V3 = 14.0V, V4 = 13.2V, depleted < 13.2V
+    Scaled fully charged = 12.0V, V1 = 11.43V, V2 = 10.71V, V3 = 10.00V, V4 = 9.43V, depleted < 9.43V
